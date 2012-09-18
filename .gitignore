@@ -4,3 +4,5 @@ bin
 *.ipr
 *.iws
 gen
+.gradle
+.idea
